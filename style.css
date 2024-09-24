@@ -1,0 +1,12 @@
+body{
+    background-color:tomato;
+    color: rgb(27, 26, 26);
+    font-size: x-large;
+}
+
+body ul {
+    display: flex;
+    justify-content: space-around;
+}
+
+
